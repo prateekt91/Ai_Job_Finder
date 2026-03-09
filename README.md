@@ -1,6 +1,6 @@
-# Manyata Tech Park - Company & Job Finder
+# Company & Job Finder
 
-A Spring Boot REST API that provides a comprehensive list of tech companies and **live job postings** from **Manyata Embassy Business Park** (Manyata Tech Park), Nagavara, Bengaluru - 560045.
+A Spring Boot REST API that provides a comprehensive list of tech companies and **live job postings**.
 
 ## Features
 
